@@ -1,0 +1,17 @@
+#button{
+    background:green;
+    color:white;
+    width:100px;
+    height:50px;
+}
+
+#search{
+    width: 338px;
+    height:50px;
+}
+
+#box{
+    width: 438px;
+    height:200px;
+    border:1px solid black;
+}
